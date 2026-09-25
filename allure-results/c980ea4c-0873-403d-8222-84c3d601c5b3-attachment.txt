@@ -1,0 +1,11 @@
+[
+  'ADIDAS ORIGINAL$ 11500 View Add To Cart',
+  'ZARA COAT 3$ 11500 View Add To Cart',
+  'iphone 13 pro$ 55000 View Add To Cart',
+  'car$ 150000 View Add To Cart',
+  'iPhone QA Max$ 98765 View Add To Cart',
+  '{{productName}}$ 115000 View Add To Cart',
+  'Laptop$ 11500 View Add To Cart',
+  'Laptop$ 11500 View Add To Cart'
+]
+ | 6aaf5c982be7a4bc2b5bf032 | 
